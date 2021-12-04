@@ -17,4 +17,6 @@ Adapun kontributor dari projek ini antara lain :
 4. Tonia Aprilia          | NIM : 12200311 
 5. Pradita Aldi Setiawan  | NIM : 12200467
 
-Terima Kasih 😎 © Kelompok 3 Web Programming II - Universitas Bina Sarana Informatika Purwokerto
+Terima Kasih 😎 
+
+Kelas 13.2A.21 © Kelompok 3 Web Programming II - Universitas Bina Sarana Informatika Purwokerto
