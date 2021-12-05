@@ -9,3 +9,13 @@ function cek_login()
         
     }
 }
+function cek_admin()
+{
+    $ci = get_instance();
+    $role_id = $ci->session->userdata('role_id');
+    if ($role_id == 1) {
+    } 
+    else {
+            redirect('autentifikasi/blok');
+    }
+}
