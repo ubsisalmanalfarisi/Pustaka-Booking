@@ -6,6 +6,7 @@ class Admin extends CI_Controller
     {
         parent::__construct();
         cek_login();
+        cek_admin();
     }
     public function index()
     {
