@@ -95,7 +95,7 @@
             <div class="page-header">
                 <span class="fas fa-users text-primary mt-2 "> Data
                     User</span>
-                <a class="text-danger" href="<?php echo base_url('user/data_user'); ?>"><i class="fas fa-search mt-2 float-right"> Tampilkan</i></a>
+                <a class="text-danger" href="<?php echo base_url('user/anggota'); ?>"><i class="fas fa-search mt-2 float-right"> Tampilkan</i></a>
             </div>
             <table class="table mt-3">
                 <thead>
