@@ -20,6 +20,7 @@ class ModelUser extends CI_Model
         $this->db->select('*');
         $this->db->from('user');
         $this->db->limit(10, 0);
+        $this->db->where('user.role_id=2');
         return $this->db->get();
     }
 }
