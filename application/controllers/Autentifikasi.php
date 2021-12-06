@@ -182,8 +182,8 @@ class Autentifikasi extends CI_Controller
                     'email' => 'admin@pustaka-booking.com',
                     'image' => 'default.jpg',
                     'password' => password_hash('12345678', PASSWORD_DEFAULT),
-                    'role_id' => 1,
-                    'is_active' => 1,
+                    'role_id' => 2,
+                    'is_active' => 0,
                     'tanggal_input' => time()
                 ];
                 $this->ModelUser->simpanData($admin);
